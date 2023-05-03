@@ -1,0 +1,17 @@
+{
+  "name": "pricetag-ip",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "eslint:fix": "eslint --fix",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.0",
+    "lodash": "^4.17.21",
+    "pkg": "^5.8.1",
+    "set-ip-address": "^1.2.2"
+  }
+}
